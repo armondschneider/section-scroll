@@ -9,6 +9,6 @@ a modern, scroll-driven storytelling app built with next.js, tailwindCSS, and fr
 - responsive and visually clean ui
 
 
-[demo](./mov.mp4)
+![demo](public/mov.gif)
 
 
