@@ -10,5 +10,5 @@ A modern, scroll-driven storytelling app built with Next.js 13, TailwindCSS, and
 
 ## Demo
 
-<video src="mov.mp4" autoplay loop muted playsinline width="600"></video>
+<video src="public/mov.mp4" autoplay loop muted playsinline width="600"></video>
 
